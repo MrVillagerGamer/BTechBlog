@@ -1,6 +1,4 @@
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1346522616150555"
-   crossorigin="anonymous"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1346522616150555" crossorigin="anonymous"></script>
 
 # Welcome to BTechBlog
 The prime site for new, original and interesting technology, ranging from RGB light bulbs to powerful cutting-edge tech.
